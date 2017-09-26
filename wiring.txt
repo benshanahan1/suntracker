@@ -1,0 +1,8 @@
+Stepper Motor:
+	Coils:
+		red-yellow
+		blue-orange
+
+Wiring on Motor Shield
+	X (from side of shield with USB cable):
+		yellow, red, orange, blue
